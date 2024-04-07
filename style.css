@@ -67,6 +67,7 @@ input{
   margin-top: 100px;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  width: 600px;
   height: 40px;
   gap: 10px;
 }
